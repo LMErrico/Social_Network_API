@@ -21,9 +21,7 @@ N/A
 
 ## Usage
 
-The link to the walkthrough video is 
-
-
+The link to the walkthrough video is https://drive.google.com/file/d/1xnNozvq_vqE3TiyzOUbkcpIcX296NLYx/view?usp=drive_link
 
 Social Network API that can handle large amounts of unstructured data. Displaying, adding, updating, and deleting users and thoughts is allowed. You can also add reactions to thoughts.
 
