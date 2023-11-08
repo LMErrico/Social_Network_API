@@ -25,8 +25,13 @@ The link to the walkthrough video is https://drive.google.com/file/d/1xnNozvq_vq
 
 Social Network API that can handle large amounts of unstructured data. Displaying, adding, updating, and deleting users and thoughts is allowed. You can also add reactions to thoughts.
 
+![Alt text](<Public/images/Screen Shot 2023-11-07 at 8.14.53 PM.png>)
 
+![Alt text](<Public/images/Screen Shot 2023-11-07 at 8.15.28 PM.png>)
 
+![Alt text](<Public/images/Screen Shot 2023-11-07 at 8.16.04 PM.png>)
+
+![Alt text](<Public/images/Screen Shot 2023-11-07 at 8.17.42 PM.png>)
 
 
 ## License
